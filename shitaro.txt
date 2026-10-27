@@ -1,4 +1,4 @@
--- Statically extracted preserved payload; entrypoint/runtime behavior is unverified.
+print("запущено!")
 
 local __devirt_support = {
 [2] = table.move,
